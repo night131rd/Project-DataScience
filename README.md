@@ -7,7 +7,7 @@
   - Machine learning and deep learning using scikit-learn, TensorFlow, and PyTorch
   - DataCamp courses and projects to improve my skills and knowledge</h3>
 
-- 🌱 I’m currently learning **Datacamp Data Science with Python**
+- 🌱 I’m currently on course **Datacamp Data Science with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/night131rd/Project-DataScience](https://github.com/night131rd/Project-DataScience)
 
