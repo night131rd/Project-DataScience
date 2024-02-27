@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Askur Khofifan</h1>
-<h3 align="center">Hello, I'm Muhammad Askur Khofifan 👋 I'm a student at Sebelas Maret University, currently pursuing a bachelor's degree in agrotechnology. I'm passionate about applying data science to solve real-world problems in agriculture and food security. ## 🌱 I’m currently learning ... - Data science with Python as my main programming language - Data analysis and visualization using pandas, numpy, matplotlib, seaborn, and plotly - Machine learning and deep learning using scikit-learn, TensorFlow, and PyTorch - DataCamp courses and projects to improve my skills and knowledge</h3>
+<h3 align="center">Hello, I'm Muhammad Askur Khofifan 👋 I'm a student at Sebelas Maret University, currently pursuing a bachelor's degree in agrotechnology. I'm passionate about applying data science to solve real-world problems in agriculture and food security. 
+  ## 🌱 I’m currently learning ... 
+  - Data science with Python as my main programming language
+  - Data analysis and visualization using pandas, numpy, matplotlib, seaborn, and plotly 
+  - Machine learning and deep learning using scikit-learn, TensorFlow, and PyTorch
+  - DataCamp courses and projects to improve my skills and knowledge</h3>
 
 - 🌱 I’m currently learning **Datacamp Data Science with Python**
 
